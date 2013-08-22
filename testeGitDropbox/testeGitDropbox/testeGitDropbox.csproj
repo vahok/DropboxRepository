@@ -32,4 +32,21 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Compile Include="ClasseTeste.cs" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <MonoDevelop>
+      <Properties>
+        <Policies>
+          <VersionControlPolicy inheritsSet="Mono">
+            <CommitMessageStyle Indent="	" FileSeparator=", " IncludeDirectoryPaths="True" />
+          </VersionControlPolicy>
+          <ChangeLogPolicy UpdateMode="ProjectRoot" inheritsSet="Mono">
+            <MessageStyle FileSeparator=", " IncludeDirectoryPaths="True" />
+          </ChangeLogPolicy>
+        </Policies>
+      </Properties>
+    </MonoDevelop>
+  </ProjectExtensions>
 </Project>
