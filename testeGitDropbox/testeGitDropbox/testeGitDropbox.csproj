@@ -34,6 +34,7 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Compile Include="ClasseTeste.cs" />
+    <Compile Include="teste.cs" />
   </ItemGroup>
   <ProjectExtensions>
     <MonoDevelop>

@@ -1,5 +1,11 @@
 2013-08-22  aldo_000  <aldo@mudcrabstudio.com>
 
+	* teste.cs: inclusa a classe independente "teste.cs"
+
+	* testeGitDropbox.csproj: atualizando
+
+2013-08-22  aldo_000  <aldo@mudcrabstudio.com>
+
 	* ClasseTeste.cs: adicionada uma nova classe "ClasseTeste.cs"
 
 	* testeGitDropbox.csproj: modificada a formatação dos logs
